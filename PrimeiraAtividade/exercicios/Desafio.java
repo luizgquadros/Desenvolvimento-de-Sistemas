@@ -1,6 +1,6 @@
 package exercicios;
 
-public class desafio {
+public class Desafio {
     public static void main(String[] args) {
         System.out.println("Digite a data: ");
         int data = new java.util.Scanner(System.in).nextInt();
