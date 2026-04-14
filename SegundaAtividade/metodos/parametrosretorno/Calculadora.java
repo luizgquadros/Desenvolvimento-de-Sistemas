@@ -1,4 +1,4 @@
-package metodos.retorno.parametros;
+package metodos.parametrosretorno;
 
 public class Calculadora {
     public int multiplicar(int x, int y) {
