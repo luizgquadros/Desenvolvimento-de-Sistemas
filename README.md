@@ -1,6 +1,6 @@
 Java - Desenvolvimento de Sistemas
 -
 
-- Primeira Atividade - Códigos e exercícios.
+- Primeira Atividade - Códigos e exercícios básicos iniciais.
 
-- Segunda Atividade - Métodos.
+- Segunda Atividade - Tipos de métodos e exercícios.
