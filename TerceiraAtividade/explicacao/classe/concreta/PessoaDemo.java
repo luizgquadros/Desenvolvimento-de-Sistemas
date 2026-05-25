@@ -1,5 +1,6 @@
-package explicacao.classes.concretas;
+package explicacao.classe.concreta;
 
+//classe concreta: pode ser instanciada diretamente
 class Pessoa {
     //atributos da classe
     private String nome;
@@ -17,10 +18,10 @@ class Pessoa {
     }
 }
 
-
+// classe principal com metodo main
 public class PessoaDemo {
     public static void main(String[] args) {
-        //criando objeto da classe concreta
+        // objeto da classe concreta
         Pessoa p = new Pessoa("Ana", 17);
         p.apresentar();
     }
