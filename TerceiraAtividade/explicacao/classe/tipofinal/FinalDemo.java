@@ -1,4 +1,4 @@
-package explicacao.classe.finall;
+package explicacao.classe.tipofinal;
 
 // classe final: nao pode ser estenddida
 final class UtilitarioMatematica {
