@@ -8,7 +8,7 @@ class PagamentoCartao extends Pagamento {
 
     @Override
     public void processar() {
-        System.out.println("Pagamento aprovado com cartão de crédito");
+        System.out.println("Processando pagamento . . .");
     }
 }
 

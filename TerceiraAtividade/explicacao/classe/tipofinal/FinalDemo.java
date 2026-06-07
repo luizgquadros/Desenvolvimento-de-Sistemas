@@ -1,6 +1,6 @@
 package explicacao.classe.tipofinal;
 
-// classe final: nao pode ser estenddida
+// classe final: nao pode ser estendida
 final class UtilitarioMatematica {
     // metodo simples de soma
     public int somar(int a, int b){

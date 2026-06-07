@@ -36,7 +36,7 @@ abstract class Funcionario {
 public class FuncionarioDemo {
     public static void main(String[] args) {
         // nao é possivel fazer: new Funcionario
-        Funcionario f = new FuncionarioCLT("Carlos", 3500.0);
+        Funcionario f = new FuncionarioCLT("Luiz", 3500.0);
         f.mostrarNome();
         System.out.println("Salário: R$" + f.calcularSalario());
         }
