@@ -6,3 +6,5 @@ Java - Desenvolvimento de Sistemas
 - Segunda Atividade - Tipos de métodos e exercícios.
 
 - Terceira Atividade - Tipos de classes e exercícios.
+
+- Quarta Atividade - Tipos de atributos e exercícios.
