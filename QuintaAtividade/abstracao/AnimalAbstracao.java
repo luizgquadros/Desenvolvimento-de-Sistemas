@@ -1,5 +1,7 @@
 package abstracao;
 
+// Código_5.1: Classe abstrata AnimalAbstracao em Java
+
 abstract class AnimalAbstracao {
     private String nome;
 
@@ -11,7 +13,7 @@ abstract class AnimalAbstracao {
         return nome;
     }
 
-    // método abstrato (sem implementação)
+    // metodo abstrato (sem implementação)
 
     public abstract void emitirSom();
 }
