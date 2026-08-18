@@ -24,4 +24,40 @@ public class Livro {
             System.out.println("Título inválido.");
         }
     }
+
+    public String getAutor(){
+        return autor;
+    }
+
+    public void setAutor(String autor){
+        if (autor != null && !autor.isEmpty()){
+            this.autor = autor;
+        }else {
+            System.out.println("Autor inválido.");
+        }
+    }
+
+    public int getNumeroPaginas (){
+        return numeroPaginas;
+    }
+
+    public void setNumeroPaginas(int numeroPaginas){
+        if (numeroPaginas > 0){
+            this.numeroPaginas = numeroPaginas;
+        }else {
+            System.out.println("Número de páginas deve ser de positivo.");
+        }
+    }
+
+    public double getPreco(){
+        return preco;
+    }
+
+    public void setPreco(double preco){
+        if (preco >= 0){
+            this.preco = preco;
+        }else {
+            System.out.println("Preço não pode ser negativo");
+        }
+    }
 }
